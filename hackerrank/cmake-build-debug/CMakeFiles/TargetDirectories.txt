@@ -1,0 +1,3 @@
+/home/bormaa/CLionProjects/Competitive-programming/hackerrank/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bormaa/CLionProjects/Competitive-programming/hackerrank/cmake-build-debug/CMakeFiles/hackerrank.dir
+/home/bormaa/CLionProjects/Competitive-programming/hackerrank/cmake-build-debug/CMakeFiles/edit_cache.dir

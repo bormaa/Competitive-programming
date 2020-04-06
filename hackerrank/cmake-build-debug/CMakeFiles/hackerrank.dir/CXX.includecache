@@ -7,6 +7,10 @@
 #IncludeRegexTransform: 
 
 /home/bormaa/CLionProjects/Competitive-programming/hackerrank/main.cpp
-iostream
+bits/stdc++.h
 -
+problem1.h
+/home/bormaa/CLionProjects/Competitive-programming/hackerrank/problem1.h
+
+/home/bormaa/CLionProjects/Competitive-programming/hackerrank/problem1.h
 

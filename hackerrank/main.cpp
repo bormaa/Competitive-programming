@@ -1,6 +1,13 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
+using namespace std;
+
+#include "problem1.h"
+
+
+int main()
+{
+
+
     return 0;
 }

@@ -2,12 +2,30 @@
 
 using namespace std;
 
-#include "problem1.h"
+#include "problem2.h"
 
 
 int main()
 {
 
+    ofstream fout(getenv("OUTPUT_PATH"));
+
+    vector<vector<int>> arr(6);
+    for (int i = 0; i < 6; i++) {
+        arr[i].resize(6);
+
+        for (int j = 0; j < 6; j++) {
+            cin >> arr[i][j];
+        }
+
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+    }
+
+    int result = hourglassSum(arr);
+
+    cout << result << "\n";
+
+    fout.close();
 
     return 0;
 }
